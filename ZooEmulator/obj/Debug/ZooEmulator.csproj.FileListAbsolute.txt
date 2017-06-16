@@ -1,0 +1,6 @@
+W:\Навчання\С#\myProgram\ZooEmulator\ZooEmulator\bin\Debug\ZooEmulator.exe.config
+W:\Навчання\С#\myProgram\ZooEmulator\ZooEmulator\bin\Debug\ZooEmulator.exe
+W:\Навчання\С#\myProgram\ZooEmulator\ZooEmulator\bin\Debug\ZooEmulator.pdb
+W:\Навчання\С#\myProgram\ZooEmulator\ZooEmulator\obj\Debug\ZooEmulator.csprojResolveAssemblyReference.cache
+W:\Навчання\С#\myProgram\ZooEmulator\ZooEmulator\obj\Debug\ZooEmulator.exe
+W:\Навчання\С#\myProgram\ZooEmulator\ZooEmulator\obj\Debug\ZooEmulator.pdb
